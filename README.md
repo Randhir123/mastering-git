@@ -1,4 +1,4 @@
-# mastering-git
+# Mastering Git
 # History: Exploring the past
     git log --graph --decorate --oneline
     git show <sha1>
